@@ -4,7 +4,7 @@
   --button-color: #2196f3;
   --main-title-color: #ffffff;
   --background-color: #2f303a;
-  --main-background-color: #e5e5e5;
+  --main-background-color: #f5f4fa;
 }
 
 p,
@@ -195,6 +195,7 @@ body {
 /* ------------ what we are doing? ------------ */
 .doing {
   background-color: var(--main-title-color);
+  padding-bottom: 94px;
 }
 .doing-wrap {
   display: flex;
